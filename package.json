@@ -1,9 +1,9 @@
 {
   "publisher": "namefhf",
   "name": "vitesse-green-theme",
-  "displayName": "Vitesse Green Theme",
+  "displayName": "Vitesse Theme Green",
   "description": "Vitesse green theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
